@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Digital Agency</title>
+	<atom:link href="https://georgealbert2001.github.io/DigitalServices/feed/" rel="self" type="application/rss+xml" />
+	<link>https://georgealbert2001.github.io/DigitalServices/</link>
+	<description></description>
+	<lastBuildDate>Wed, 01 Jan 2025 19:32:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://georgealbert2001.github.io/DigitalServices/wp-content/uploads/2024/12/cropped-diamond-1-32x32.png</url>
+	<title>Digital Agency</title>
+	<link>https://georgealbert2001.github.io/DigitalServices/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How to Choose web Color Schemes</title>
+		<link>https://georgealbert2001.github.io/DigitalServices/how-to-choose-web-color-schemes/</link>
+					<comments>https://georgealbert2001.github.io/DigitalServices/how-to-choose-web-color-schemes/#respond</comments>
+		
+		<dc:creator><![CDATA[1]]></dc:creator>
+		<pubDate>Wed, 01 Jan 2025 19:27:23 +0000</pubDate>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[worpress]]></category>
+		<guid isPermaLink="false">https://georgealbert2001.github.io/DigitalServices/?p=797</guid>
+
+					<description><![CDATA[Color Scheme is very important to Our website .You can just go to Canva to Learn More]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Color Scheme</strong> is very important to Our website .You can just go to <a href="http://canva.com/" data-type="link" data-id="canva.com">Canva</a> to Learn More</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img fetchpriority="high" decoding="async" width="563" height="426" src="https://georgealbert2001.github.io/DigitalServices/wp-content/uploads/2024/12/background1.png" alt="" class="wp-image-33" style="width:630px;height:auto" srcset="https://georgealbert2001.github.io/DigitalServices/wp-content/uploads/2024/12/background1.png 563w, https://georgealbert2001.github.io/DigitalServices/wp-content/uploads/2024/12/background1-300x227.png 300w" sizes="(max-width: 563px) 100vw, 563px" /></figure></div>]]></content:encoded>
+					
+					<wfw:commentRss>https://georgealbert2001.github.io/DigitalServices/how-to-choose-web-color-schemes/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
